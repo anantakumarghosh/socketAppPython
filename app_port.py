@@ -2,7 +2,7 @@ import socket
 import threading
 import time
 
-HOST = 'localhost'
+HOST = '192.168.29.104'
 PYTHON_PORT = 5000  # Python server port
 
 # Function to handle incoming connections from Express.js
